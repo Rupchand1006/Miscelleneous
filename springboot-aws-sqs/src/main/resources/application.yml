@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: AKIAJ5KPPQUXHFNBVTKQ
+      secret-key: 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
+    end-point:
+      uri: https://sqs.ap-south-1.amazonaws.com/186030997083/MsgQueue
